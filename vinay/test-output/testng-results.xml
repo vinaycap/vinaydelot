@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9080" started-at="2019-07-15T19:26:51Z" finished-at="2019-07-15T19:27:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9080" started-at="2019-07-15T19:26:51Z" finished-at="2019-07-15T19:27:00Z">
+      <class name="com.mercury.qa.test.newclass">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.mercury.qa.test.newclass@13c27452]" name="setup" is-config="true" duration-ms="8313" started-at="2019-07-15T19:26:51Z" finished-at="2019-07-15T19:26:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="intiali()[pri:0, instance:com.mercury.qa.test.newclass@13c27452]" name="intiali" duration-ms="691" started-at="2019-07-15T19:26:59Z" finished-at="2019-07-15T19:27:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intiali -->
+      </class> <!-- com.mercury.qa.test.newclass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
